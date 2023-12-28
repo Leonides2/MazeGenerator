@@ -1,11 +1,9 @@
 #include <iostream>
+#include "scripts/Maze.h"
 
 using namespace std;
 
-struct Maze{
-    int Xsize;
-    int Ysize;
-};
+Maze M1 = Maze();
 
 int main(){
 
