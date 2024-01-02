@@ -1,5 +1,5 @@
 #include <iostream>
-#include "scripts/Maze.h"
+#include "Maze.h"
 
 using namespace std;
 
@@ -17,5 +17,5 @@ int main(){
 
    M1.~Maze();
 
-   return 0; 
+   return 0;
 }

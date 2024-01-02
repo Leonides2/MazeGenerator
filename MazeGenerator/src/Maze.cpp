@@ -28,4 +28,3 @@ int Maze::getYsize(){
 }
 
 
-

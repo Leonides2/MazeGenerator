@@ -1,4 +1,3 @@
-
 #ifndef MAZE_H
 #define MAZE_H
 
@@ -20,4 +19,4 @@ private:
     std::valarray<std::valarray<int>> MazeForm;
 };
 
-#endif
+#endif // MAZE_H
